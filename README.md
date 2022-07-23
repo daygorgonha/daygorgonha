@@ -1,8 +1,8 @@
 <div align="center">
 
-### Hello, i am Dayane 🌻🦋
+### Hello, I'am Dayane Gorgonha 👩‍💻
 
- I'm currently perfecting myself Javascript (Node.JS, React Native e Vue.JS) 👩‍💻
+ I'm currently perfecting myself Javascript (Node.JS, React Native,Vue.JS, Flutter) 
  
  Talk to me: 👇🏻
 
