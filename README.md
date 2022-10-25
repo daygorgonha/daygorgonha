@@ -2,7 +2,7 @@
 
 ### Hello, I'am Dayane Gorgonha 👩‍💻
 
- I'm currently perfecting myself Javascript (Node.JS, React Native,Vue.JS, Flutter) 
+ I'm currently perfecting myself Javascript (Node.JS,Vue.JS, Angular, Ionic) 
  
  Talk to me: 👇🏻
 
