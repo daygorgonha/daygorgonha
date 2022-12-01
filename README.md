@@ -2,7 +2,7 @@
 
 ### Hello, I'am Dayane Gorgonha 👩‍💻
 
- I'm currently perfecting myself Javascript (Node.JS,Vue.JS, Angular, Ionic) 
+ I'm currently perfecting myself Javascript (Node.JS, Angular 13, Ionic) 
  
  Talk to me: 👇🏻
 
@@ -19,16 +19,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daygorgonha&layout=compact&langs_count=7&theme=synthwave"/>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Postgresql" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"/>
-  <img align="center" alt="Insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" />
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="React Native" height="40" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></img>
-  <img align="center" alt="Vue" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558">
-  <img align="center" alt="Sequelize" height="40" width="50" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png">
+  <img align="center" alt="Angular" height="40" width="50" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></img>
+  <img align="center" alt="Ionic" height="40" width="50" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white"></img>
+
   
  
   
